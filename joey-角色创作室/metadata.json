@@ -1,0 +1,6 @@
+
+{
+  "name": "Joey 角色创作室",
+  "description": "一个用于设计和生成 Joey 雪纳瑞 IP 形象变体的 AIGC 应用，支持自定义动作、服装和场景。",
+  "requestFramePermissions": []
+}
